@@ -1,0 +1,1 @@
+import{n as o}from"./chunk-2FKQMQ36.js";import{_ as e,ia as r}from"./chunk-BFDJ235B.js";var n=[{path:"tests",loadChildren:()=>import("./chunk-BYMD2EAE.js").then(t=>t.TestsRoutingModule)}],a=(()=>{class t{static \u0275fac=function(i){return new(i||t)};static \u0275mod=r({type:t});static \u0275inj=e({imports:[o.forChild(n),o]})}return t})();export{a as MasterRoutingModule};

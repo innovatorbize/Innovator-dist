@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{s as o}from"./chunk-KO2IYVKY.mjs";import{W as e,ea as r}from"./chunk-AS6P2X7V.mjs";import"./chunk-5XUXGTUW.mjs";var n=[{path:"tests",loadChildren:()=>import("./chunk-5THOBFBH.mjs").then(t=>t.TestsRoutingModule)}],a=(()=>{class t{static \u0275fac=function(i){return new(i||t)};static \u0275mod=r({type:t});static \u0275inj=e({imports:[o.forChild(n),o]})}return t})();export{a as MasterRoutingModule};

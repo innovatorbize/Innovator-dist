@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/auth",
+    "/auth/register",
+    "/home",
+    "/home/home",
+    "/masters",
+    "/masters/tests",
+    "/masters/tests/list"
+  ]
+}
